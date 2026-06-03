@@ -1,0 +1,6 @@
+﻿# Normalize line endings for JSON tool definitions
+*.json text eol=lf
+*.md text eol=lf
+
+# Binaries etc.
+* -text
